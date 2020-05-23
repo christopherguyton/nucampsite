@@ -1,0 +1,10 @@
+#gameScreen {
+    border-style: double;
+    border-radius: 2px;
+    border-color: black;
+}
+
+
+img {
+    display: none;
+}
